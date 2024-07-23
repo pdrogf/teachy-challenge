@@ -52,12 +52,13 @@ Referências:
 ### 2. Proposta de arquitetura de software
 
 Se você fosse criar o Pinterest do zero, como você faria?
-Alguns casos de uso para serem pensados:
+Principais casos de uso para serem pensados:
  - Como lidar com formatos de mídia diferentes (imagens, videos, links) e de origem diferente (criado por usuário, gerado pela plataforma, ADs, conteúdo externo - que redireciona para um site);
  - Recomendação de conteúdos relevantes para o usuário;
  - Possibilidade so usuário salvar o conteúdo em pastas, curtir e comentar um conteúdo;
 
-# TODO: Explicar o escopo da proposta de arquitetura de software, exemplo: desenho da infra, escolha da stack e arquitetura de serviços e proposta de exemplo
+A plataforma será utilizada por aproximadamente 100 mil pessoas, a princípio será uma solução apenas para o Brasil ou falantes de lingua portuguesa.
 
-A proposta deverá ser documentada mostrando a proposta e o por quê das escolhas tecnológicas. Sinta-se livre para usar imagens e também referenciar soluções de Cloud.
+Deve-se explicar o escopo da proposta de arquitetura de software, exemplo: desenho da infra, escolha da stack e arquitetura de serviços. Segue abaixo uma imagem de exemplo de arquitetura. A proposta deverá ser documentada mostrando a proposta e o por quê das escolhas tecnológicas. Sinta-se livre para usar imagens e também referenciar soluções de Cloud.
 
+Sinta-se à vontade para tirar dúvidas.
